@@ -1,4 +1,4 @@
-# Interneepk_App
+# Interneepk_App 📚🎓🏫👨🏻‍🎓🎒🏛️
 Internee.pk kickstarts student's tech careers with first internships, providing industry exposure, practical skills, and networking opportunities, paving the way for their success in the tech industry. Following are the screens and pages of the App 🎓📚👨🏻‍🎓
 
 1: Splash Screen
