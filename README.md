@@ -1,16 +1,18 @@
-# interneepk_app
+# Interneepk_App
+Internee.pk kickstarts student's tech careers with first internships, providing industry exposure, practical skills, and networking opportunities, paving the way for their success in the tech industry. Following are the screens and pages of the App
 
-A new Flutter project.
+1: Splash Screen
+2: Welcome Screen
+3: Home Page
+4: Courses Page
+5: Favorite Page
+6: Profile Page
 
-## Getting Started
+# Demo of the App
 
-This project is a starting point for a Flutter application.
+![1](https://github.com/osamakamal20/Internee.pk-App/assets/70693692/e25eb1c9-9136-43c7-a5d6-07a3d9ede28b)
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://github.com/osamakamal20/Internee.pk-App/assets/70693692/1a5e9333-e2df-4c33-88a3-9ff293fa5b88)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
